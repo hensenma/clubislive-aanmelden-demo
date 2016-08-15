@@ -4,7 +4,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   var api = new Api(
       "https://api.clubislive.nl/",
-      "<JOUW API KEY>"
+   eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwIjoxMDA4NjAxLCJob3N0Ijoid3d3LmFkdWx0LXdlYi5ubCIsImlhdCI6MTQ3MTI3MDgyN30.lXoa_w7yNf33n_Vu5aKnpoz0pfh5B2SkTSGvRlCmE8o   "<JOUW API KEY>"
     ),
     testMode    = true,
     formElement = document.forms[0];
